@@ -35,7 +35,7 @@ Now try to create/modify the tiddlers, and refresh the page, the tiddlers are up
 ## Advanced Usage
 
 tw5-auth leverage the versatile [passportjs](http://www.passportjs.org) for authentication.
-Please consult passportjs's [documentation](http://www.passportjs.org/doc) for more details.
+Please consult passportjs's [documentation](http://www.passportjs.org/guide) for more details.
 
 If you want more sophisticated access control, you might consider
 [connect-roles](https://github.com/ForbesLindesay/connect-roles).
