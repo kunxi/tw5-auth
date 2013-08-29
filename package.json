@@ -1,0 +1,24 @@
+{
+  "name": "tw5-auth",
+  "version": "0.1.0",
+  "author": "Kun Xi <kunxi@kunxi.org>",
+  "description": "a simple auth proxy for TiddlyWiki5.",
+  "dependencies": {
+    "express": "*",
+    "passport": "*",
+    "passport-google-oauth": "*",
+    "http-proxy": "*",
+    "nconf": "*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kunxi/tw5-auth.git"
+  },
+  "keywords": [
+    "proxy",
+    "server",
+    "authentication",
+    "authorization"
+  ],
+  "license": "MIT"
+}

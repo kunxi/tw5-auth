@@ -1,0 +1,9 @@
+{
+    "client_id": "-- insert your client ID --",
+    "client_secret": "-- insert your client secret --",
+    "domain": "example.com"
+    "mount_point": "http://www.example.com/",
+    "session_secret": "-- insert your session secret --",
+    "tw5_port": 8080,
+    "port": 8086
+}
